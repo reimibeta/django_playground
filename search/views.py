@@ -11,4 +11,6 @@ def index(request):
         # 'wiki': wiki,
         'search': search
     })
-    
+
+def phone_verify(request):
+    pass
